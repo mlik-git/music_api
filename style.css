@@ -1,0 +1,11 @@
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; background-color: #f4f4f9; color: #333; max-width: 900px; margin: 0 auto; padding: 20px; }
+header, section { background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 20px; }
+h1, h2 { color: #0056b3; border-bottom: 2px solid #eef; padding-bottom: 10px; }
+#json-output { background-color: #2d2d2d; color: #f8f8f2; padding: 15px; border-radius: 5px; white-space: pre-wrap; word-wrap: break-word; font-family: 'Courier New', Courier, monospace; }
+#player-info { display: flex; align-items: center; margin-bottom: 15px; }
+#player-cover { width: 80px; height: 80px; border-radius: 5px; margin-right: 15px; object-fit: cover; }
+#audio-player { width: 100%; }
+#song-list { list-style: none; padding: 0; }
+#song-list li { padding: 10px; border-bottom: 1px solid #eee; cursor: pointer; display: flex; justify-content: space-between; align-items: center; transition: background-color 0.2s; }
+#song-list li:hover { background-color: #f0f0f0; }
+#song-list li.active { background-color: #e0f7fa; font-weight: bold; }

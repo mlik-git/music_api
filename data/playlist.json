@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "title": "2002年的第一场雪",
+    "artist": "刀郎",
+    "album": "2002年的第一场雪",
+    "year": "",
+    "url": "audio/2002年的第一场雪 - 刀郎.mp3",
+    "cover": "img/刀郎 - 2002年的第一场雪.jpeg",
+    "detailUrl": "data/刀郎 - 2002年的第一场雪.json"
+  },
+  {
+    "id": 2,
+    "title": "Super Star",
+    "artist": "S.H.E",
+    "album": "Super Star",
+    "year": "",
+    "url": "audio/Super Star - S.H.E.mp3",
+    "cover": "img/S.H.E - Super Star.png",
+    "detailUrl": "data/S.H.E - Super Star.json"
+  },
+  {
+    "id": 3,
+    "title": "东风破",
+    "artist": "周杰伦",
+    "album": "叶惠美",
+    "year": "",
+    "url": "audio/东风破 - 周杰伦.mp3",
+    "cover": "img/周杰伦 - 东风破.jpeg",
+    "detailUrl": "data/周杰伦 - 东风破.json"
+  },
+  {
+    "id": 4,
+    "title": "今天你要嫁给我",
+    "artist": "陶喆;蔡依林",
+    "album": "太美丽",
+    "year": "",
+    "url": "audio/今天你要嫁给我 - 陶喆、蔡依林.mp3",
+    "cover": "img/陶喆;蔡依林 - 今天你要嫁给我.jpeg",
+    "detailUrl": "data/陶喆;蔡依林 - 今天你要嫁给我.json"
+  },
+  {
+    "id": 5,
+    "title": "会呼吸的痛",
+    "artist": "梁静茹",
+    "album": "崇拜",
+    "year": "",
+    "url": "audio/会呼吸的痛 - 梁静茹.mp3",
+    "cover": "img/梁静茹 - 会呼吸的痛.jpeg",
+    "detailUrl": "data/梁静茹 - 会呼吸的痛.json"
+  },
+  {
+    "id": 6,
+    "title": "北京欢迎你",
+    "artist": "华语群星",
+    "album": "北京2008年奥运会歌曲专辑",
+    "year": "",
+    "url": "audio/北京欢迎你 - 华语群星.mp3",
+    "cover": "img/华语群星 - 北京欢迎你.jpeg",
+    "detailUrl": "data/华语群星 - 北京欢迎你.json"
+  },
+  {
+    "id": 7,
+    "title": "发如雪",
+    "artist": "周杰伦",
+    "album": "十一月的萧邦",
+    "year": "",
+    "url": "audio/发如雪 - 周杰伦.mp3",
+    "cover": "img/周杰伦 - 发如雪.jpeg",
+    "detailUrl": "data/周杰伦 - 发如雪.json"
+  },
+  {
+    "id": 8,
+    "title": "后来",
+    "artist": "刘若英",
+    "album": "收获 新歌+精选",
+    "year": "",
+    "url": "audio/后来 - 刘若英.mp3",
+    "cover": "img/刘若英 - 后来.jpeg",
+    "detailUrl": "data/刘若英 - 后来.json"
+  },
+  {
+    "id": 9,
+    "title": "大城小爱",
+    "artist": "王力宏",
+    "album": "盖世英雄",
+    "year": "",
+    "url": "audio/大城小爱 - 王力宏.mp3",
+    "cover": "img/王力宏 - 大城小爱.jpeg",
+    "detailUrl": "data/王力宏 - 大城小爱.json"
+  },
+  {
+    "id": 10,
+    "title": "奔跑",
+    "artist": "羽泉;黄征",
+    "album": "爱情诺曼底",
+    "year": "",
+    "url": "audio/奔跑 - 羽泉、黄征.mp3",
+    "cover": "img/羽泉;黄征 - 奔跑.jpeg",
+    "detailUrl": "data/羽泉;黄征 - 奔跑.json"
+  },
+  {
+    "id": 11,
+    "title": "好心分手",
+    "artist": "卢巧音;王力宏",
+    "album": "不能不爱... 卢巧音精选",
+    "year": "",
+    "url": "audio/好心分手 - 卢巧音、王力宏.mp3",
+    "cover": "img/卢巧音;王力宏 - 好心分手.jpeg",
+    "detailUrl": "data/卢巧音;王力宏 - 好心分手.json"
+  },
+  {
+    "id": 12,
+    "title": "寂寞沙洲冷",
+    "artist": "周传雄",
+    "album": "星空下的传说",
+    "year": "",
+    "url": "audio/寂寞沙洲冷 - 周传雄.mp3",
+    "cover": "img/周传雄 - 寂寞沙洲冷.jpeg",
+    "detailUrl": "data/周传雄 - 寂寞沙洲冷.json"
+  },
+  {
+    "id": 13,
+    "title": "就是爱你",
+    "artist": "陶喆",
+    "album": "太平盛世",
+    "year": "",
+    "url": "audio/就是爱你 - 陶喆.mp3",
+    "cover": "img/陶喆 - 就是爱你.jpeg",
+    "detailUrl": "data/陶喆 - 就是爱你.json"
+  },
+  {
+    "id": 14,
+    "title": "布拉格广场",
+    "artist": "蔡依林;周杰伦",
+    "album": "看我72变",
+    "year": "",
+    "url": "audio/布拉格广场 - 蔡依林、周杰伦.mp3",
+    "cover": "img/蔡依林;周杰伦 - 布拉格广场.jpeg",
+    "detailUrl": "data/蔡依林;周杰伦 - 布拉格广场.json"
+  },
+  {
+    "id": 15,
+    "title": "挥着翅膀的女孩",
+    "artist": "容祖儿",
+    "album": "我的骄傲",
+    "year": "",
+    "url": "audio/挥着翅膀的女孩 - 容祖儿.mp3",
+    "cover": "img/容祖儿 - 挥着翅膀的女孩.jpeg",
+    "detailUrl": "data/容祖儿 - 挥着翅膀的女孩.json"
+  },
+  {
+    "id": 16,
+    "title": "暗号",
+    "artist": "周杰伦",
+    "album": "八度空间",
+    "year": "",
+    "url": "audio/暗号 - 周杰伦.mp3",
+    "cover": "img/周杰伦 - 暗号.jpeg",
+    "detailUrl": "data/周杰伦 - 暗号.json"
+  },
+  {
+    "id": 17,
+    "title": "暗香",
+    "artist": "沙宝亮",
+    "album": "沙宝亮",
+    "year": "",
+    "url": "audio/暗香 - 沙宝亮.mp3",
+    "cover": "img/沙宝亮 - 暗香.jpeg",
+    "detailUrl": "data/沙宝亮 - 暗香.json"
+  },
+  {
+    "id": 18,
+    "title": "曹操",
+    "artist": "林俊杰",
+    "album": "曹操",
+    "year": "",
+    "url": "audio/曹操 - 林俊杰.mp3",
+    "cover": "img/林俊杰 - 曹操.jpeg",
+    "detailUrl": "data/林俊杰 - 曹操.json"
+  },
+  {
+    "id": 19,
+    "title": "江南",
+    "artist": "林俊杰",
+    "album": "第二天堂",
+    "year": "",
+    "url": "audio/江南 - 林俊杰.mp3",
+    "cover": "img/林俊杰 - 江南.jpeg",
+    "detailUrl": "data/林俊杰 - 江南.json"
+  },
+  {
+    "id": 20,
+    "title": "波斯猫",
+    "artist": "S.H.E",
+    "album": "奇幻旅程",
+    "year": "",
+    "url": "audio/波斯猫 - S.H.E.mp3",
+    "cover": "img/S.H.E - 波斯猫.jpeg",
+    "detailUrl": "data/S.H.E - 波斯猫.json"
+  },
+  {
+    "id": 21,
+    "title": "浮夸",
+    "artist": "陈奕迅",
+    "album": "U 87",
+    "year": "",
+    "url": "audio/浮夸 - 陈奕迅.mp3",
+    "cover": "img/陈奕迅 - 浮夸.jpeg",
+    "detailUrl": "data/陈奕迅 - 浮夸.json"
+  },
+  {
+    "id": 22,
+    "title": "火红的萨日朗",
+    "artist": "乌兰托娅",
+    "album": "火红的萨日朗",
+    "year": "",
+    "url": "audio/火红的萨日朗 - 乌兰托娅.mp3",
+    "cover": "img/乌兰托娅 - 火红的萨日朗.jpeg",
+    "detailUrl": "data/乌兰托娅 - 火红的萨日朗.json"
+  },
+  {
+    "id": 23,
+    "title": "爱你",
+    "artist": "王心凌",
+    "album": "爱你",
+    "year": "",
+    "url": "audio/爱你 - 王心凌.mp3",
+    "cover": "img/王心凌 - 爱你.jpeg",
+    "detailUrl": "data/王心凌 - 爱你.json"
+  },
+  {
+    "id": 24,
+    "title": "爱情转移",
+    "artist": "陈奕迅",
+    "album": "认了吧",
+    "year": "",
+    "url": "audio/爱情转移 - 陈奕迅.mp3",
+    "cover": "img/陈奕迅 - 爱情转移.jpeg",
+    "detailUrl": "data/陈奕迅 - 爱情转移.json"
+  },
+  {
+    "id": 25,
+    "title": "爱的主打歌",
+    "artist": "萧亚轩",
+    "album": "爱的主打歌·吻",
+    "year": "",
+    "url": "audio/爱的主打歌 - 萧亚轩.mp3",
+    "cover": "img/萧亚轩 - 爱的主打歌.jpeg",
+    "detailUrl": "data/萧亚轩 - 爱的主打歌.json"
+  },
+  {
+    "id": 26,
+    "title": "爱转角",
+    "artist": "罗志祥",
+    "album": "Best Show 劲舞天王版",
+    "year": "",
+    "url": "audio/爱转角 - 罗志祥.mp3",
+    "cover": "img/罗志祥 - 爱转角.jpeg",
+    "detailUrl": "data/罗志祥 - 爱转角.json"
+  },
+  {
+    "id": 27,
+    "title": "独家记忆",
+    "artist": "陈小春",
+    "album": "独家记忆",
+    "year": "",
+    "url": "audio/独家记忆 - 陈小春.mp3",
+    "cover": "img/陈小春 - 独家记忆.jpeg",
+    "detailUrl": "data/陈小春 - 独家记忆.json"
+  },
+  {
+    "id": 28,
+    "title": "画心",
+    "artist": "张靓颖",
+    "album": "画心",
+    "year": "",
+    "url": "audio/画心 - 张靓颖.mp3",
+    "cover": "img/张靓颖 - 画心.jpeg",
+    "detailUrl": "data/张靓颖 - 画心.json"
+  },
+  {
+    "id": 29,
+    "title": "痴心绝对",
+    "artist": "李圣杰",
+    "album": "痴心绝对",
+    "year": "",
+    "url": "audio/痴心绝对 - 李圣杰.mp3",
+    "cover": "img/李圣杰 - 痴心绝对.jpeg",
+    "detailUrl": "data/李圣杰 - 痴心绝对.json"
+  },
+  {
+    "id": 30,
+    "title": "稻香",
+    "artist": "周杰伦",
+    "album": "魔杰座",
+    "year": "",
+    "url": "audio/稻香 - 周杰伦.mp3",
+    "cover": "img/周杰伦 - 稻香.jpeg",
+    "detailUrl": "data/周杰伦 - 稻香.json"
+  },
+  {
+    "id": 31,
+    "title": "等一分钟",
+    "artist": "徐誉滕",
+    "album": "茉莉花开",
+    "year": "",
+    "url": "audio/等一分钟 - 徐誉滕.mp3",
+    "cover": "img/徐誉滕 - 等一分钟.jpeg",
+    "detailUrl": "data/徐誉滕 - 等一分钟.json"
+  },
+  {
+    "id": 32,
+    "title": "给我一首歌的时间",
+    "artist": "周杰伦",
+    "album": "魔杰座",
+    "year": "",
+    "url": "audio/给我一首歌的时间 - 周杰伦.mp3",
+    "cover": "img/周杰伦 - 给我一首歌的时间.jpeg",
+    "detailUrl": "data/周杰伦 - 给我一首歌的时间.json"
+  },
+  {
+    "id": 33,
+    "title": "背对背拥抱",
+    "artist": "林俊杰",
+    "album": "100天",
+    "year": "",
+    "url": "audio/背对背拥抱 - 林俊杰.mp3",
+    "cover": "img/林俊杰 - 背对背拥抱.jpeg",
+    "detailUrl": "data/林俊杰 - 背对背拥抱.json"
+  },
+  {
+    "id": 34,
+    "title": "该死的温柔",
+    "artist": "马天宇",
+    "album": "宇光十色",
+    "year": "",
+    "url": "audio/该死的温柔 - 马天宇.mp3",
+    "cover": "img/马天宇 - 该死的温柔.jpeg",
+    "detailUrl": "data/马天宇 - 该死的温柔.json"
+  },
+  {
+    "id": 35,
+    "title": "轨迹",
+    "artist": "周杰伦",
+    "album": "寻找周杰伦",
+    "year": "",
+    "url": "audio/轨迹 - 周杰伦.mp3",
+    "cover": "img/周杰伦 - 轨迹.jpeg",
+    "detailUrl": "data/周杰伦 - 轨迹.json"
+  },
+  {
+    "id": 36,
+    "title": "黄昏",
+    "artist": "周传雄",
+    "album": "transfer",
+    "year": "",
+    "url": "audio/黄昏 - 周传雄.mp3",
+    "cover": "img/周传雄 - 黄昏.jpeg",
+    "detailUrl": "data/周传雄 - 黄昏.json"
+  }
+]

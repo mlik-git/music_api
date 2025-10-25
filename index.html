@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>静态音乐API</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>🎵 我的静态音乐API</h1>
+        <p>使用方法：在URL后加上 `?id=歌曲ID` 来获取特定歌曲信息，例如 `?id=1`</p>
+    </header>
+
+    <main>
+        <section id="playlist-section">
+            <h2>歌曲列表</h2>
+            <ul id="song-list">
+                <!-- 歌曲列表将由JS动态生成 -->
+            </ul>
+        </section>
+
+        <section id="api-response">
+            <h2>API 响应</h2>
+            <pre><code id="json-output">请从列表中选择一首歌，或通过URL参数访问...</code></pre>
+        </section>
+
+        <section id="player-demo">
+            <h2>播放器演示</h2>
+            <div id="player-info">
+                <img id="player-cover" src="https://via.placeholder.com/80x80.png?text=No+Cover" alt="封面">
+                <div>
+                    <p id="player-title">歌曲标题</p>
+                    <p id="player-artist">歌手</p>
+                </div>
+            </div>
+            <audio id="audio-player" controls></audio>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
