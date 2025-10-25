@@ -7,10 +7,11 @@
 * 🧩 模块化设计：API 接口与前端播放器分离，方便你将 API 集成到任何项目中。
 * 🌍 跨平台兼容：自动处理文件名中的特殊字符和中文，确保在任何系统上都能稳定运行。
 * 📱 响应式界面：内置一个简洁美观的音乐播放器，支持桌面和移动设备。
+
 ## 🛠️ 技术栈
-![GitHub License](https://img.shields.io/github/license/你的用户名/你的仓库名)
-![GitHub last commit](https://img.shields.io/github/last-commit/你的用户名/你的仓库名)
-![GitHub repo size](https://img.shields.io/github/repo-size/你的用户名/你的仓库名)
+![GitHub License](https://img.shields.io/github/license/mlik-git/music_api)
+![GitHub last commit](https://img.shields.io/github/last-commit/mlik-git/music_api)
+![GitHub repo size](https://img.shields.io/github/repo-size/mlik-git/music_api)
 ![GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-success)
 
 **后端处理**
@@ -24,6 +25,7 @@
 
 **部署平台**
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-000000?logo=github)
+
 ## 📁 项目结构
 ```
 my-music-api/
