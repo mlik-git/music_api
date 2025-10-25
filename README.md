@@ -1,17 +1,30 @@
-🎵 静态音乐 API
-一个基于 Node.js 和前端技术的纯静态音乐 API 和播放器。它能自动处理你的本地 MP3 文件，提取元数据和专辑封面，生成一个可以通过 HTTP 请求访问的音乐库。
+# 🎵 静态音乐 API
+### 一个基于 Node.js 和前端技术的纯静态音乐 API 和播放器。它能自动处理你的本地 MP3 文件，提取元数据和专辑封面，生成一个可以通过 HTTP 请求访问的音乐库。
 
-✨ 项目特色
-🤖 自动化处理：一个 Node.js 脚本搞定所有 MP3 文件的元数据提取和封面保存。
-🌐 纯静态部署：无需后端服务器，完美托管在 GitHub Pages 等静态网站服务上。
-🧩 模块化设计：API 接口与前端播放器分离，方便你将 API 集成到任何项目中。
-🌍 跨平台兼容：自动处理文件名中的特殊字符和中文，确保在任何系统上都能稳定运行。
-📱 响应式界面：内置一个简洁美观的音乐播放器，支持桌面和移动设备。
-🛠️ 技术栈
-后端处理: Node.js, music-metadata
-前端: HTML5, CSS3, Vanilla JavaScript
-部署: GitHub Pages
-📁 项目结构
+## ✨ 项目特色
+### 1.🤖 自动化处理：一个 Node.js 脚本搞定所有 MP3 文件的元数据提取和封面保存。
+### 2.🌐 纯静态部署：无需后端服务器，完美托管在 GitHub Pages 等静态网站服务上。
+### 3.🧩 模块化设计：API 接口与前端播放器分离，方便你将 API 集成到任何项目中。
+### 4.🌍 跨平台兼容：自动处理文件名中的特殊字符和中文，确保在任何系统上都能稳定运行。
+### 5.📱 响应式界面：内置一个简洁美观的音乐播放器，支持桌面和移动设备。
+## 🛠️ 技术栈
+![GitHub License](https://img.shields.io/github/license/你的用户名/你的仓库名)
+![GitHub last commit](https://img.shields.io/github/last-commit/你的用户名/你的仓库名)
+![GitHub repo size](https://img.shields.io/github/repo-size/你的用户名/你的仓库名)
+![GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-success)
+
+**后端处理**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=nodedotjs&logoColor=white)
+![music-metadata](https://img.shields.io/badge/music--metadata-8.6.0-FF6B6B)
+
+**前端界面**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+**部署平台**
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-000000?logo=github)
+## 📁 项目结构
 my-music-api/
 ├── audio/                  # 存放你的 MP3 文件
 ├── data/                   # (由脚本生成) 存放歌曲元数据 JSON
